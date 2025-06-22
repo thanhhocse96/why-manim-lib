@@ -163,3 +163,4 @@ cython_debug/
 
 # Manim file create
 media/
+renders/
